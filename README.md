@@ -9,7 +9,7 @@ A PHP wrapper for the WooCommerce REST API. Easily interact with the WooCommerce
 ## Installation
 
 ```
-composer require automattic/woocommerce
+composer require zonbloginc/woocommerce
 ```
 
 ## Getting started
