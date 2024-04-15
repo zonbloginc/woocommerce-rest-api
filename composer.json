@@ -1,12 +1,12 @@
 {
-  "name": "automattic/woocommerce",
+  "name": "zonbloginc/woocommerce",
   "description": "A PHP wrapper for the WooCommerce REST API",
   "type": "library",
   "license": "MIT",
   "authors": [
     {
-      "name": "Claudio Sanches",
-      "email": "claudio.sanches@automattic.com"
+      "name": "Tony",
+      "email": "zonbloginc@gmail.com"
     }
   ],
   "minimum-stability": "dev",
